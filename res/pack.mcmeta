@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": [1, 63],
+    "description": "Adds icons for Untitled Duck Mod for Xaero's Minimap"
+  }
+}

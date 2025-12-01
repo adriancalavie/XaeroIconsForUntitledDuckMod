@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "untitledduckmod:textures/entity/canadian_goose.png": "outlined_sprite:untitledduckmod/canadian_goose.png",
+    "untitledduckmod:textures/entity/goose.png": "outlined_sprite:untitledduckmod/goose.png",
+    "untitledduckmod:textures/entity/gosling.png": "outlined_sprite:untitledduckmod/gosling.png",
+    "untitledduckmod:textures/entity/ping_goose.png": "outlined_sprite:untitledduckmod/ping_goose.png",
+    "untitledduckmod:textures/entity/sus_goose.png": "outlined_sprite:untitledduckmod/sus_goose.png",
+    "untitledduckmod:textures/entity/untitled_goose.png": "outlined_sprite:untitledduckmod/untitled_goose.png",
+    "default": "outlined_sprite:untitledduckmod/goose.png"
+  }
+}
