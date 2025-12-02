@@ -2,7 +2,7 @@
 
 # Xaero Icons for Untitled Goose Mod
 
-Adds icons for **Untitled Duck Mod** for **Xaero's Minimap**.
+Adds icons for [Untitled Duck Mod](https://modrinth.com/mod/untitled-duck-mod) for [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap).
 
 ## In-Game Look
 
